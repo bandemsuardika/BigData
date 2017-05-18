@@ -34,3 +34,9 @@ Exercise 7
    https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5712148547132729/3201113641235086/5946475276657079/latest.html
    -(Structured)
    https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5712148547132729/3201113641235132/5946475276657079/latest.html
+   
+3. Irsyad Iswanda Putra
+   5113100185
+   link databricks:
+   -(Structured): https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1287048604515215/2793002136774919/1707208796309447/latest.html
+   -(Stream): https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1287048604515215/2793002136774905/1707208796309447/latest.html
