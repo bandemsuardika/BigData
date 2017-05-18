@@ -26,10 +26,11 @@ Exercise 7
     -(Stream)
     https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3984530640907953/24542867967316/5265162588876790/latest.html
     -(Structured)
-https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3984530640907953/24542867967287/5265162588876790/latest.html
+    https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3984530640907953/24542867967287/5265162588876790/latest.html
 2. I Gede Bandem Suardika Jaya
    5113100014
    link databricks:
    -(Stream)
+   https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5712148547132729/3201113641235086/5946475276657079/latest.html
    -(Structured)
    https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5712148547132729/3201113641235132/5946475276657079/latest.html
