@@ -40,3 +40,8 @@ Exercise 7
    link databricks:
    -(Structured): https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1287048604515215/2793002136774919/1707208796309447/latest.html
    -(Stream): https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1287048604515215/2793002136774905/1707208796309447/latest.html
+
+Exercise 8:
+1. Donny Aliyanto
+   5113100165
+   link databricks: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3984530640907953/1479102241799216/5265162588876790/latest.html
